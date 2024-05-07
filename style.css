@@ -38,8 +38,10 @@ span{
     /* width: 1000px; */
     /* height: fit-content; */
     display: flex;
+    justify-content: center;
     margin: 20px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
+    /* background-color: black; */
 }
 
 .movie-item{
